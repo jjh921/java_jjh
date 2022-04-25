@@ -1,5 +1,5 @@
 package day1;
-
+	  
 public class Ex1_Hello {
 	//콘솔 응용 프로그램이 실해애되기 위해서 main이라는 얘(메소드)가 필요하다
 	public static void main(String[] args) {
