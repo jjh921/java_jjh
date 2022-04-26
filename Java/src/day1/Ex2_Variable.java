@@ -17,6 +17,7 @@ public class Ex2_Variable {
 		
 		System.out.println("십진수 1 : "+ num1);
 		System.out.println("8진수 20:"+ num2);
+		
 		System.out.println("16진수 2F: " + num3);
 		
 		//문자는 한글자를 의미한다 '1'는 있음. '11'은 없음. ' ' 로 감싼다. (유니코드 표)
